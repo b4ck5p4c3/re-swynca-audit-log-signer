@@ -1,6 +1,6 @@
 # re-swynca-audit-log-signer
 
-Simple hardware ETH transaction signer
+Simple hardware ETH transaction signer based on Bluepill (STM32F103*8 with 128KB of Flash)
 
 Supports:
 - Transaction validation (target, value, chain id)
